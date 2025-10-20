@@ -3,7 +3,7 @@
     "nombre": "Práctica 2 - Gestión de Proyectos",
     "descripcion": "Gestión de repositorios utilizando Git y GitHub",
     "tipo": "Educativo",
-    "fecha_creacion": "Sun Oct 19 18:33:28     2025"
+    "fecha_creacion": "Sun Oct 19 20:00:06     2025"
   },
   "estudiante": {
     "nombre": "[TU NOMBRE COMPLETO]",
@@ -25,7 +25,7 @@
     },
     {
       "nombre": "practica2-gestion-proyectos",
-      "url": "https://github.com/X-Martinez2009/practica2-gestion-proyectos",
+      "url": "https://github.com/nuputamadred338-igim/practica2-gestion-proyectos",
       "tipo": "Público", 
       "archivos": ["Markdown", "JSON"]
     }
