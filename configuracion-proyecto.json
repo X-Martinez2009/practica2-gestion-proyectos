@@ -1,0 +1,35 @@
+{
+  "proyecto": {
+    "nombre": "Práctica 2 - Gestión de Proyectos",
+    "descripcion": "Gestión de repositorios utilizando Git y GitHub",
+    "tipo": "Educativo",
+    "fecha_creacion": "Sun Oct 19 18:33:28     2025"
+  },
+  "estudiante": {
+    "nombre": "[TU NOMBRE COMPLETO]",
+    "materia": "Emplea Frameworks para el Desarrollo de Software",
+    "grupo": "[TU GRUPO]"
+  },
+  "tecnologias": [
+    "Git",
+    "GitHub",
+    "Control de Versiones",
+    "Repositorios Remotos"
+  ],
+  "repositorios": [
+    {
+      "nombre": "mi-primer-proyecto",
+      "url": "https://github.com/X-Martinez2009/mi-primer-proyecto",
+      "tipo": "Público",
+      "archivos": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "nombre": "practica2-gestion-proyectos",
+      "url": "https://github.com/X-Martinez2009/practica2-gestion-proyectos",
+      "tipo": "Público", 
+      "archivos": ["Markdown", "JSON"]
+    }
+  ],
+  "estado": "Completado",
+  "calificacion_esperada": "10/10"
+}
