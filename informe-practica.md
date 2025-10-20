@@ -13,7 +13,7 @@
 |-----------|--------|-------------|
 | Configuración Git | ✅ Completado | Ambos |
 | Primer repositorio | ✅ Completado | [mi-primer-proyecto](https://github.com/X-Martinez2009/mi-primer-proyecto) |
-| Segundo repositorio | ✅ Completado | [practica2-gestion-proyectos](https://github.com/nuputamadred338-igim/practica2-gestion-proyectos) |
+| Segundo repositorio | ✅ Completado | [practica2-gestion-proyectos](https://github.com/X-Martinez2009/practica2-gestion-proyectos) |
 | Múltiples commits | ✅ Completado | Ambos |
 
 ### 🔧 Comandos Utilizados
@@ -25,7 +25,7 @@ git push origin main
 \`
 
 ### 📅 Fecha de Entrega
-*Sun Oct 19 19:59:48     2025*
+*Sun Oct 19 20:04:18     2025*
 
 ---
 Práctica 2 - Gestión de Proyectos con Repositorios
