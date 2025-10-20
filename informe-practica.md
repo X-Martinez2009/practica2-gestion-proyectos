@@ -29,3 +29,4 @@ git push origin main
 
 ---
 Práctica 2 - Gestión de Proyectos con Repositorios
+\n---\n** Modificación Exitosa:** Sun Oct 19 18:41:42     2025
